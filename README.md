@@ -4,7 +4,7 @@ Die Registrierung ist für den Betrieb weiterer Funktionen für Neukunden elemen
 
 # Testvorgehen
 
-Teststufe: Systemtest  <br>
+**Teststufe:** Systemtest  <br>
 Testart: Funktionstest  <br>
 Testverfahren: Blackbox, Explorativ, Erfahrungsbasiert, Checklist, Automatisiert <br>
 Testumgebung: Google Chrome Version 120.0.6099.216 (Offizieller Build) (arm64) <br>
