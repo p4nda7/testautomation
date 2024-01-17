@@ -10,8 +10,8 @@ Testverfahren: Blackbox, Explorativ, Erfahrungsbasiert, Checklist, Automatisiert
 Testumgebung: Google Chrome Version 120.0.6099.216 (Offizieller Build) (arm64) <br>
 Testtools: Selenium IDE 3.17.4
  <br> <br>
-Inhalt <br>
-1 Testbericht <br> https://docs.google.com/document/d/1g3skSP_KtpO5OLrA5AE3bcQxOCvWrZk5gJ8wVnAlHVA/edit?usp=sharing <br>
+## Inhalt <br>
+###1 Testbericht <br> https://docs.google.com/document/d/1g3skSP_KtpO5OLrA5AE3bcQxOCvWrZk5gJ8wVnAlHVA/edit?usp=sharing <br>
 2 Testsuite mit funktionellen Tests <br>
   2.1 Funktionale Tests <br>
   2.2 Systemintegrität und Resillienz <br>
