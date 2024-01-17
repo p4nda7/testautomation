@@ -4,12 +4,12 @@ Die Registrierung ist für den Betrieb weiterer Funktionen für Neukunden elemen
 
 # Testvorgehen
 
-Teststufe: Systemtest
-Testart: Funktionstest
-Testverfahren: Blackbox, Explorativ, Erfahrungsbasiert, Checklist, Automatisiert
-Testumgebung: Google Chrome Version 120.0.6099.216 (Offizieller Build) (arm64)
+Teststufe: Systemtest  <br>
+Testart: Funktionstest  <br>
+Testverfahren: Blackbox, Explorativ, Erfahrungsbasiert, Checklist, Automatisiert <br>
+Testumgebung: Google Chrome Version 120.0.6099.216 (Offizieller Build) (arm64) <br>
 Testtools: Selenium IDE 3.17.4
-
+ <br> <br>
 Inhalt
 1 Testbericht https://docs.google.com/document/d/1g3skSP_KtpO5OLrA5AE3bcQxOCvWrZk5gJ8wVnAlHVA/edit?usp=sharing
 2 Testsuite mit funktionellen Tests
