@@ -6,7 +6,12 @@ Die Registrierung ist für den Betrieb weiterer Funktionen für Neukunden elemen
 
 Teststufe: Systemtest  <br>
 Testart: Funktionstest  <br>
-Testverfahren:<br> Blackbox, Explorativ, Erfahrungsbasiert, Checklist, Automatisiert <br>
+Testverfahren:<br> 
+- Blackbox <br>
+- Explorativ<br>
+- Erfahrungsbasiert<br>
+- Checklist<br>
+- Automatisiert <br>
 Testumgebung: Google Chrome Version 120.0.6099.216 (Offizieller Build) (arm64) <br>
 Testtools: Selenium IDE 3.17.4 <br> 
 Letzte Testdurchführung: 17.01.2024 - 14:28:26
