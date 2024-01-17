@@ -6,7 +6,7 @@ Die Registrierung ist für den Betrieb weiterer Funktionen für Neukunden elemen
 
 Teststufe: Systemtest  <br>
 Testart: Funktionstest  <br>
-Testverfahren:<br> 
+Testverfahren:
 - Blackbox <br>
 - Explorativ<br>
 - Erfahrungsbasiert<br>
