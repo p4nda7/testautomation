@@ -1,12 +1,15 @@
 # Testbericht
-Ziel der Tests ist die Überprüfung einer Hauptfunktionen, die Registrierung. 
-Die Registrierung ist für den Betrieb weiterer Funktionen für Neukunden elementar. 
+Ziele des Tests <br>
+
+- Verifizierung ob Anforderungen erfüllt sind<br>
+- Prüfen der Vollständigkeit<br>
+- Arbeitsergebnisse ermitteln<br>
 
 ## Testvorgehen
 
 Teststufe: Systemtest  <br>
 Testart: Funktionstest  <br>
-Testverfahren: Blackbox, Explorativ, Erfahrungsbasiert, Checklist, Automatisiert <br>
+Testverfahren: Dynamisch, Blackbox, Explorativ, Erfahrungsbasiert, Checklist, Automatisiert <br>
 Testumgebung: Google Chrome Version 120.0.6099.216 (Offizieller Build) (arm64) <br>
 Testtools: Selenium IDE 3.17.4 <br> 
 Letzte Testdurchführung: 17.01.2024 - 14:28:26
