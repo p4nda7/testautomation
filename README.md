@@ -1,8 +1,8 @@
-# Einführung
+# Testbericht
 Ziel der Tests ist die Überprüfung einer Hauptfunktionen, die Registrierung. 
 Die Registrierung ist für den Betrieb weiterer Funktionen für Neukunden elementar. 
 
-# Testvorgehen
+## Testvorgehen
 
 **Teststufe:** Systemtest  <br>
 Testart: Funktionstest  <br>
