@@ -12,6 +12,8 @@ Testverfahren:<br>
 - Erfahrungsbasiert<br>
 - Checklist<br>
 - Automatisiert <br>
+
+
 Testumgebung: Google Chrome Version 120.0.6099.216 (Offizieller Build) (arm64) <br>
 Testtools: Selenium IDE 3.17.4 <br> 
 Letzte Testdurchführung: 17.01.2024 - 14:28:26
