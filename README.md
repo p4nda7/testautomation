@@ -35,6 +35,7 @@ Letzte Testdurchführung: 17.01.2024 - 14:28:26
 4 Bugreports <br>
        Bugreport-01#  Drop Down PLZ Abgleich fehlerhaft <br>
        Bugreport 02# Passwortabgleich fehlerhaft <br>
-       Bugreport 03# Englische Fehlermeldung <br><br>
+       Bugreport 03# Englische Fehlermeldung <br>
+       Bugreport 04# HTML Fehler Rechtsschreibung<br><br>
 5 Screenshots <br>
 6 Java Codes <br>
