@@ -28,5 +28,5 @@ Testtools: Selenium IDE 3.17.4
        Bugreport-01#  Drop Down PLZ Abgleich fehlerhaft <br>
        Bugreport 02# Passwortabgleich fehlerhaft <br>
        Bugreport 03# Englische Fehlermeldung <br><br>
-5 Screenshots <br><br>
+5 Screenshots <br>
 6 Java Codes <br>
